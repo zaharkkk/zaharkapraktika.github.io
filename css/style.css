@@ -891,6 +891,9 @@ img {
         padding-bottom: 20px;
     }
 
+    .btn-call{
+        margin-top: 20px;}
+
     .nav__ul {
         margin-left: 0;
         margin-top: 15px;
@@ -965,4 +968,5 @@ img {
     .footer_block {
         align-items: center;
     }
+
 }
